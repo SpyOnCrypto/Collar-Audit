@@ -10,7 +10,7 @@
 <ul>
   
 <li> No WhitePaper, Roadmap or Project Presentation available at the time of the request and the audit result</li>
-<li> The smart contract and all of his core function were <strong>Pausable<strong> by the owner </li>
+<li> The smart contract and all of his core function were <strong>Pausable</strong> by the owner </li>
 <li> After a specific study of the contract, the Spy On crypto team noticed that it was possible for a third person to exploit the contract by carrying out an overflow attack </li>
  </ul>
 
